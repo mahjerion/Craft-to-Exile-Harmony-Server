@@ -1,0 +1,20 @@
+{
+  "admin": {
+	"level": 100,
+    "overrides": {
+	  "name_style": ["blue", "bold"],
+      "commands": {
+        ".*": "allow"
+      }
+    }
+  },
+  "everyone": {
+    "overrides": {
+      "commands": {
+        "help": "allow",
+        "team": "allow",
+        "role": "deny"
+      }
+    }
+  }
+}
