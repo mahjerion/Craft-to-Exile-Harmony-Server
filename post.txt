@@ -1,0 +1,25 @@
+Minecraft Meets Path of Exile & Diablo, Again!
+
+Craft to Exile [Harmony] is a 1.16.X FABRIC modpack designed around progression. Craft to Exile modpacks draws inspiration from popular action RPGs such as Diablo and Path of Exile.
+
+Difference between [Harmony] and [Dissonance] (the first modpack).
+
+At its core, Craft to Exile turns Minecraft into an action RPG which focuses on exploration, character development, and looting. However, [Dissonance] and [Harmony] are sisters and both have different philosophies regarding their development. Although [Harmony] was released later, it is not 'better'. [Harmony] takes advantage of Age of Exile's intrinsic compatibility with vanilla and other mods. Representative of its namesake, it provides player with an experience more akin to vanilla than [Dissonance]. [Harmony] focuses on smaller excursions and a main base. Every so often, mobs will attack you and try to invade your base. To accompany this, mobs scale with your level in every dimension (including the Overworld). Rather than limit dimensions to a narrow level range, in [Harmony], all dimensions have the potential of reaching max level. On the other hand, [Dissonance] was the first of the two packs and features a more linearalized progression ideology. One of [Dissonance]'s main hallmarks is its thoroughly fleshed out quest log which guides you through the dimensions and provides a clear goal. After all, a resolution can only be found when there is dissonance.
+
+Featuring:
+- Invasions from the mod: Crimson Moon! Survive and protect your base!
+- Over 50 quests and 50 custom items (uniques, runewords), with more to come!
+- Extensive configuration via datapacks.
+- Custom spells and skill trees (now possible with datapacks!).
+- An official server provided by Akliz!
+
+Mods:
+- Age of Exile - turns Minecraft into an ARPG!
+- The Bumblezone, End: Rebellion, Adventurez - adds more content!
+- Hardcore Questing Mode - with customized quest log.
+- Oh The Biomes You'll Go, Mo' Structures, Repurposed Structures, Dungeons of Exile - for enhanced world gen!
+- Tons of QOL mods!
+
+Curse Page: https://www.curseforge.com/minecraft/modpacks/crafttoexileharmony
+Discord: https://discord.gg/cJS6ZHs
+Images: https://imgur.com/gallery/DbO4C0F
