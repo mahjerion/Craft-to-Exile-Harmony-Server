@@ -1,0 +1,35 @@
+{
+  "identifier": "enigma",
+  "stats": [
+	{
+      "first_min": 30.0,
+      "first_max": 40.0,
+      "second_min": 0.0,
+      "second_max": 0.0,
+      "stat": "cdr",
+      "type": "FLAT"
+    },
+    {
+      "first": 1.0,
+      "second": 0.0,
+      "stat": "unlock_teleport",
+      "type": "FLAT",
+      "scaleToLevel": false
+    },
+    {
+      "firstMin": 3.0,
+      "firstMax": 4.0,
+      "secondMin": 0.0,
+      "secondMax": 0.0,
+      "stat": "mana_per_sec",
+      "type": "flat"
+    }
+  ],
+  "runes_needed": [
+    "har",
+    "wir",
+    "ita"
+  ],
+  "family": "Armor",
+  "loc_name": "Enigma"
+}

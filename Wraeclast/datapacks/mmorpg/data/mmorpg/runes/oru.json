@@ -1,0 +1,37 @@
+{
+  "on_armor_stats": [
+    {
+      "first_min": 8.0,
+      "first_max": 10.0,
+      "second_min": 0.0,
+      "second_max": 0.0,
+      "stat": "increased_quantity",
+      "type": "FLAT"
+    }
+  ],
+  "on_jewelry_stats": [
+    {
+      "first_min": 33.0,
+      "first_max": 35.0,
+      "second_min": 0.0,
+      "second_max": 0.0,
+      "stat": "mana_burn_resist",
+      "type": "FLAT"
+    }
+  ],
+  "on_weapons_stats": [
+    {
+      "first_min": 3.0,
+      "first_max": 5.0,
+      "second_min": 0.0,
+      "second_max": 0.0,
+      "stat": "armor_penetration",
+      "type": "FLAT"
+    }
+  ],
+  "item_id": "mmorpg:runes/oru",
+  "identifier": "oru",
+  "required_item_level": 0.6,
+  "weight": 500,
+  "effective_level": 0.6
+}
