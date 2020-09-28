@@ -3,12 +3,12 @@
 		"source": "options.txt",
 		"destination": "options.txt",
 		"side": "client",
-		"version": 0
+		"version": 1
 	},
 	{
 		"source": "servers.dat",
 		"destination": "servers.dat",
 		"side": "client",
-		"version": 0
+		"version": 1
 	}
 ]
