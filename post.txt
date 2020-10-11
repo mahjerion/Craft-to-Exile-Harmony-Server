@@ -15,6 +15,7 @@ Featuring:
 
 Mods:
 - Age of Exile - turns Minecraft into an ARPG!
+- Origins - introducing "ascendancies"!
 - The Bumblezone, End: Rebellion, Adventurez - adds more content!
 - Hardcore Questing Mode - with customized quest log.
 - Oh The Biomes You'll Go, Mo' Structures, Repurposed Structures, Dungeons of Exile - for enhanced world gen!
