@@ -10,12 +10,12 @@ Featuring:
 - Invasions from the mod: Crimson Moon! Survive and protect your base!
 - Over 50 quests and 50 custom items (uniques, runewords), with more to come!
 - Extensive configuration via datapacks.
-- Custom spells and skill trees (now possible with datapacks!).
+- Custom spells and skill trees.
 - An official server provided by Akliz!
 
 Mods:
 - Age of Exile - turns Minecraft into an ARPG!
-- Origins - introducing "ascendancies"!
+- Origins - introducing "Ascendancies"!
 - The Bumblezone, End: Rebellion, Adventurez - adds more content!
 - Hardcore Questing Mode - with customized quest log.
 - Oh The Biomes You'll Go, Mo' Structures, Repurposed Structures, Dungeons of Exile - for enhanced world gen!
@@ -23,4 +23,4 @@ Mods:
 
 Curse Page: https://www.curseforge.com/minecraft/modpacks/crafttoexileharmony
 Discord: https://discord.gg/cJS6ZHs
-Images: https://imgur.com/gallery/DbO4C0F
+Images: https://imgur.com/a/DM3Qdhy
