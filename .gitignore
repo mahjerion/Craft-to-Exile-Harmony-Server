@@ -1,7 +1,6 @@
 .mixin.out/
 crash-reports/
 world/
-mods/
 banned-ips.json
 banned-player.json
 ops.json
