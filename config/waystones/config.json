@@ -1,0 +1,6 @@
+{
+  "global_discover": false,
+  "cost_type": "xp",
+  "cost_item": "minecraft:ender_pearl",
+  "cost_amount": 1
+}
