@@ -8,10 +8,25 @@
       }
     }
   },
+  "moderator": {
+	"level": 10,
+    "overrides": {
+	  "name_style": ["blue", "bold"],
+      "commands": {
+        "ban": "allow",
+        "ban-ip": "allow",
+        "banlist": "allow",
+        "kick": "allow"
+      }
+    }
+  },
   "everyone": {
     "overrides": {
       "commands": {
         "help": "allow",
+		"spawn": "deny",
+		"tpa": "allow",
+		"sethome": "deny",
         "team": "allow",
         "role": "deny"
       }
