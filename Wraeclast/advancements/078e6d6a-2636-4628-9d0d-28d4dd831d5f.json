@@ -185,15 +185,15 @@
     },
     "done": true
   },
-  "minecraft:recipes/decorations/blast_furnace": {
-    "criteria": {
-      "has_the_recipe": "2020-10-16 09:51:56 -0400"
-    },
-    "done": true
-  },
   "adorn:recipes/diorite_platform": {
     "criteria": {
       "has_the_recipe": "2020-10-16 09:51:55 -0400"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/blast_furnace": {
+    "criteria": {
+      "has_the_recipe": "2020-10-16 09:51:56 -0400"
     },
     "done": true
   },
@@ -497,12 +497,6 @@
     },
     "done": true
   },
-  "ce_foodstuffs:crafting/apple_pie": {
-    "criteria": {
-      "has_the_recipe": "2020-10-16 09:51:55 -0400"
-    },
-    "done": true
-  },
   "minecraft:recipes/building_blocks/pink_concrete_powder": {
     "criteria": {
       "has_the_recipe": "2020-10-16 09:51:55 -0400"
@@ -785,15 +779,15 @@
     },
     "done": true
   },
-  "minecraft:recipes/misc/light_gray_dye_from_azure_bluet": {
-    "criteria": {
-      "has_the_recipe": "2020-10-16 09:51:56 -0400"
-    },
-    "done": true
-  },
   "adorn:recipes/sandstone_platform": {
     "criteria": {
       "has_the_recipe": "2020-10-16 09:51:55 -0400"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/light_gray_dye_from_azure_bluet": {
+    "criteria": {
+      "has_the_recipe": "2020-10-16 09:51:56 -0400"
     },
     "done": true
   },
@@ -1853,15 +1847,15 @@
     },
     "done": true
   },
-  "minecraft:nether/root": {
-    "criteria": {
-      "entered_nether": "2020-10-16 09:54:29 -0400"
-    },
-    "done": true
-  },
   "adorn:recipes/birch_kitchen_sink": {
     "criteria": {
       "has_the_recipe": "2020-10-16 09:51:55 -0400"
+    },
+    "done": true
+  },
+  "minecraft:nether/root": {
+    "criteria": {
+      "entered_nether": "2020-10-16 09:54:29 -0400"
     },
     "done": true
   },
@@ -2555,15 +2549,15 @@
     },
     "done": true
   },
-  "repurposed_structures:fortresses": {
-    "criteria": {
-      "always": "2020-10-16 09:51:56 -0400"
-    },
-    "done": true
-  },
   "minecraft:recipes/tools/clock": {
     "criteria": {
       "has_the_recipe": "2020-10-16 09:51:55 -0400"
+    },
+    "done": true
+  },
+  "repurposed_structures:fortresses": {
+    "criteria": {
+      "always": "2020-10-16 09:51:56 -0400"
     },
     "done": true
   },
@@ -2760,12 +2754,6 @@
     "done": true
   },
   "minecraft:recipes/misc/pink_dye_from_pink_tulip": {
-    "criteria": {
-      "has_the_recipe": "2020-10-16 09:51:55 -0400"
-    },
-    "done": true
-  },
-  "ce_foodstuffs:crafting/sweet_berry_pie": {
     "criteria": {
       "has_the_recipe": "2020-10-16 09:51:55 -0400"
     },
@@ -3299,12 +3287,6 @@
     },
     "done": true
   },
-  "ce_foodstuffs:crafting/salad": {
-    "criteria": {
-      "has_the_recipe": "2020-10-16 09:51:55 -0400"
-    },
-    "done": true
-  },
   "minecraft:recipes/decorations/composter": {
     "criteria": {
       "has_the_recipe": "2020-10-16 09:51:55 -0400"
@@ -3348,12 +3330,6 @@
     "done": true
   },
   "minecraft:recipes/redstone/oak_door": {
-    "criteria": {
-      "has_the_recipe": "2020-10-16 09:51:55 -0400"
-    },
-    "done": true
-  },
-  "ce_foodstuffs:crafting/mashed_potatoes": {
     "criteria": {
       "has_the_recipe": "2020-10-16 09:51:55 -0400"
     },
@@ -3407,15 +3383,15 @@
     },
     "done": true
   },
-  "minecraft:recipes/building_blocks/pink_wool": {
-    "criteria": {
-      "has_the_recipe": "2020-10-16 09:51:56 -0400"
-    },
-    "done": true
-  },
   "minecraft:recipes/decorations/andesite_wall_from_andesite_stonecutting": {
     "criteria": {
       "has_the_recipe": "2020-10-16 09:51:55 -0400"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/pink_wool": {
+    "criteria": {
+      "has_the_recipe": "2020-10-16 09:51:56 -0400"
     },
     "done": true
   },
@@ -4049,12 +4025,6 @@
     },
     "done": true
   },
-  "ce_foodstuffs:crafting/marshmallow": {
-    "criteria": {
-      "has_the_recipe": "2020-10-16 09:51:55 -0400"
-    },
-    "done": true
-  },
   "minecraft:recipes/misc/red_dye_from_rose_bush": {
     "criteria": {
       "has_the_recipe": "2020-10-16 09:51:55 -0400"
@@ -4175,15 +4145,15 @@
     },
     "done": true
   },
-  "repurposed_structures:mineshafts": {
-    "criteria": {
-      "always": "2020-10-16 09:51:56 -0400"
-    },
-    "done": true
-  },
   "minecraft:recipes/building_blocks/polished_basalt_from_basalt_stonecutting": {
     "criteria": {
       "has_the_recipe": "2020-10-16 09:51:55 -0400"
+    },
+    "done": true
+  },
+  "repurposed_structures:mineshafts": {
+    "criteria": {
+      "always": "2020-10-16 09:51:56 -0400"
     },
     "done": true
   },
@@ -4409,12 +4379,6 @@
     },
     "done": true
   },
-  "respawnablepets:recipes/misc/crafting/etheric_gem": {
-    "criteria": {
-      "has_the_recipe": "2020-10-16 09:51:55 -0400"
-    },
-    "done": true
-  },
   "minecraft:recipes/decorations/light_gray_carpet_from_white_carpet": {
     "criteria": {
       "has_the_recipe": "2020-10-16 09:51:55 -0400"
@@ -4584,12 +4548,6 @@
     "done": true
   },
   "minecraft:recipes/building_blocks/spruce_wood": {
-    "criteria": {
-      "has_the_recipe": "2020-10-16 09:51:55 -0400"
-    },
-    "done": true
-  },
-  "ce_foodstuffs:crafting/uncooked_marshmallow_on_a_stick": {
     "criteria": {
       "has_the_recipe": "2020-10-16 09:51:55 -0400"
     },
@@ -5521,12 +5479,6 @@
     "done": true
   },
   "campanion:recipes/decorations/cyan_lawn_chair_from_existing_chair": {
-    "criteria": {
-      "has_the_recipe": "2020-10-16 09:51:55 -0400"
-    },
-    "done": true
-  },
-  "ce_foodstuffs:crafting/chocolate": {
     "criteria": {
       "has_the_recipe": "2020-10-16 09:51:55 -0400"
     },
