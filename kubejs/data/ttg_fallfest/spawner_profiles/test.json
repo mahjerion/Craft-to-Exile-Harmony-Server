@@ -1,0 +1,30 @@
+{
+  "reward": "mmorpg:loot_crate/rare",
+  "loottable": "",
+  "waves": [
+    {
+      "entities": [
+        "minecraft:creeper"
+      ],
+      "minMobCount": 5,
+      "maxMobCount": 9
+    },
+    {
+      "entities": [
+        "minecraft:creeper",
+        "minecraft:zombie"
+      ],
+      "minMobCount": 7,
+      "maxMobCount": 11
+    },
+    {
+      "entities": [
+        "minecraft:creeper",
+        "minecraft:zombie",
+        "creeperspores:creeperling"
+      ],
+      "minMobCount": 9,
+      "maxMobCount": 13
+    }
+  ]
+}
