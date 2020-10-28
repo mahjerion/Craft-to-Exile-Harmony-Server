@@ -43,6 +43,30 @@
           }
         },
         {
+          "questId": "35178b05-9dfd-4fee-beab-0c1cf49fcf2a",
+          "questData": {
+            "players": 1,
+            "rewards": [
+              false
+            ],
+            "completed": false,
+            "claimed": false,
+            "available": true,
+            "time": 0,
+            "tasksSize": 1,
+            "tasks": [
+              {
+                "type": "MOB",
+                "completed": false,
+                "count": 1,
+                "killed": [
+                  0
+                ]
+              }
+            ]
+          }
+        },
+        {
           "questId": "ff1e4d39-ea2e-4c4f-b6d4-701a49d680d7",
           "questData": {
             "players": 1,
@@ -60,30 +84,6 @@
                 "completed": false,
                 "count": 1,
                 "progress": [
-                  0
-                ]
-              }
-            ]
-          }
-        },
-        {
-          "questId": "00f8f61e-1536-4f72-93d9-b947301788a1",
-          "questData": {
-            "players": 1,
-            "rewards": [
-              false
-            ],
-            "completed": false,
-            "claimed": false,
-            "available": true,
-            "time": 0,
-            "tasksSize": 1,
-            "tasks": [
-              {
-                "type": "MOB",
-                "completed": false,
-                "count": 1,
-                "killed": [
                   0
                 ]
               }
@@ -109,6 +109,30 @@
                 "count": 2,
                 "progress": [
                   0,
+                  0
+                ]
+              }
+            ]
+          }
+        },
+        {
+          "questId": "00f8f61e-1536-4f72-93d9-b947301788a1",
+          "questData": {
+            "players": 1,
+            "rewards": [
+              false
+            ],
+            "completed": false,
+            "claimed": false,
+            "available": true,
+            "time": 0,
+            "tasksSize": 1,
+            "tasks": [
+              {
+                "type": "MOB",
+                "completed": false,
+                "count": 1,
+                "killed": [
                   0
                 ]
               }
@@ -701,7 +725,7 @@
           }
         },
         {
-          "questId": "4dddfc71-2521-4227-8497-ea142c222a3f",
+          "questId": "f4992ee1-a265-4d8f-a54e-3337ed584487",
           "questData": {
             "players": 1,
             "rewards": [
@@ -725,7 +749,7 @@
           }
         },
         {
-          "questId": "f4992ee1-a265-4d8f-a54e-3337ed584487",
+          "questId": "4dddfc71-2521-4227-8497-ea142c222a3f",
           "questData": {
             "players": 1,
             "rewards": [

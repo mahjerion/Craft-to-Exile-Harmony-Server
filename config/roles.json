@@ -28,7 +28,8 @@
 		"tpa": "allow",
 		"sethome": "deny",
         "team": "allow",
-        "role": "deny"
+        "role": "deny",
+		"rtp": "allow"
       }
     }
   }
