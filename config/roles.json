@@ -29,7 +29,8 @@
 		"sethome": "deny",
         "team": "allow",
         "role": "deny",
-		"rtp": "allow"
+		"rtp": "allow",
+		"home": "deny"
       }
     }
   }
