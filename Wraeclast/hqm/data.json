@@ -1167,6 +1167,30 @@
           }
         },
         {
+          "questId": "5131fb94-f3d9-4f4d-a253-10cc8bbc5345",
+          "questData": {
+            "players": 1,
+            "rewards": [
+              false
+            ],
+            "completed": false,
+            "claimed": false,
+            "available": true,
+            "time": 0,
+            "tasksSize": 1,
+            "tasks": [
+              {
+                "type": "ITEMS",
+                "completed": false,
+                "count": 1,
+                "progress": [
+                  0
+                ]
+              }
+            ]
+          }
+        },
+        {
           "questId": "931874d5-15be-4aa4-9289-1472d8ad7c59",
           "questData": {
             "players": 1,
