@@ -2,10 +2,7 @@
   "item_type": "plate_gilded_netherite_chest",
   "item_id": "adventurez:stone_golem_chestplate",
   "id": "adventurez:plate_gilded_netherite_chest",
-  "rarity": {
-    "min_rarity": 0,
-    "max_rarity": 1
-  },
+  "rarities": "non_aoe",
   "misc": {
     "weight": 1000,
     "can_be_salvaged": true

@@ -38,15 +38,15 @@
           "Count": 4
         },
         {
-          "id": "mmorpg:mat/rare_magic_essence",
-          "Count": 16
-        },
-        {
           "id": "minecraft:bow",
           "Count": 1,
           "tag": {
             "Damage": 0
           }
+        },
+        {
+          "id": "mmorpg:mat/salvage/salvage2",
+          "Count": 16
         }
       ],
       "rewardchoice": [
@@ -115,8 +115,8 @@
       "optionlinks": [],
       "reward": [
         {
-          "id": "mmorpg:mat/rare_magic_essence",
-          "Count": 12
+          "id": "mmorpg:mat/salvage/salvage2",
+          "Count": 16
         }
       ],
       "rewardchoice": [
@@ -171,6 +171,10 @@
         {
           "id": "minecraft:redstone_block",
           "Count": 1
+        },
+        {
+          "id": "mmorpg:mat/salvage/salvage2",
+          "Count": 8
         }
       ],
       "rewardchoice": [],
@@ -252,10 +256,6 @@
         {
           "id": "minecraft:ghast_tear",
           "Count": 3
-        },
-        {
-          "id": "mmorpg:mat/magic_essence",
-          "Count": 12
         }
       ],
       "rewardchoice": [],
@@ -369,8 +369,8 @@
           "Count": 8
         },
         {
-          "id": "mmorpg:mat/rare_magic_essence",
-          "Count": 8
+          "id": "mmorpg:mat/salvage/salvage2",
+          "Count": 16
         }
       ],
       "rewardchoice": [],
@@ -513,8 +513,8 @@
       "optionlinks": [],
       "reward": [
         {
-          "id": "mmorpg:mat/rare_magic_essence",
-          "Count": 8
+          "id": "mmorpg:mat/salvage/salvage3",
+          "Count": 1
         }
       ],
       "rewardchoice": [
@@ -568,8 +568,8 @@
       "optionlinks": [],
       "reward": [
         {
-          "id": "mmorpg:mat/rare_magic_essence",
-          "Count": 32
+          "id": "mmorpg:mat/salvage/salvage2",
+          "Count": 16
         }
       ],
       "rewardchoice": [
@@ -636,6 +636,10 @@
         {
           "id": "mmorpg:currency/orb_of_discovery",
           "Count": 1
+        },
+        {
+          "id": "mmorpg:mat/salvage/salvage2",
+          "Count": 4
         }
       ],
       "rewardchoice": [],
@@ -671,6 +675,10 @@
         {
           "id": "minecraft:netherite_ingot",
           "Count": 1
+        },
+        {
+          "id": "mmorpg:mat/salvage/salvage2",
+          "Count": 2
         }
       ],
       "rewardchoice": [],

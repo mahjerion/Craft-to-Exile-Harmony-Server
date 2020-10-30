@@ -2,10 +2,7 @@
   "item_type": "stone_axe",
   "item_id": "minecraft:stone_axe",
   "id": "minecraft:stone_axe",
-  "rarity": {
-    "min_rarity": 0,
-    "max_rarity": 1
-  },
+  "rarities": "non_aoe",
   "misc": {
     "weight": 1000,
     "can_be_salvaged": false

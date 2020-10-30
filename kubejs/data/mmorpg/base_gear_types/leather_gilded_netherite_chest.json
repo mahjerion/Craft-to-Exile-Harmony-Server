@@ -1,6 +1,6 @@
 {
   "id": "leather_gilded_netherite_chest",
-  "weight": 333,
+  "weight": 0,
   "rarity": 0,
   "tier": 0,
   "registry": "gear_type",
@@ -36,5 +36,6 @@
   },
   "item_id": "adventurez:stone_golem_chestplate",
   "gear_slot": "chest",
-  "weapon_type": "None"
+  "weapon_type": "None",
+  "attack_style": "MELEE"
 }

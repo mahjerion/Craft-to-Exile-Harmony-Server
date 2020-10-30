@@ -133,6 +133,10 @@
         {
           "id": "minecraft:honeycomb",
           "Count": 1
+        },
+        {
+          "id": "mmorpg:mat/salvage/salvage1",
+          "Count": 4
         }
       ],
       "rewardchoice": [],

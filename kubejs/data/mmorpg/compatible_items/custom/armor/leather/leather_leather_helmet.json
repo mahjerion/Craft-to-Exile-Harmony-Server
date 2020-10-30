@@ -2,10 +2,7 @@
   "item_type": "leather_leather_helmet",
   "item_id": "minecraft:leather_helmet",
   "id": "minecraft:leather_leather_helmet",
-  "rarity": {
-    "min_rarity": 0,
-    "max_rarity": 1
-  },
+  "rarities": "non_aoe",
   "misc": {
     "weight": 1000,
     "can_be_salvaged": true

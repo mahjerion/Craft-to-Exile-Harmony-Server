@@ -1,6 +1,6 @@
 {
   "id": "golden_sword",
-  "weight": 1500,
+  "weight": 0,
   "rarity": 0,
   "tier": 0,
   "registry": "gear_type",
@@ -54,5 +54,6 @@
   },
   "item_id": "minecraft:golden_sword",
   "gear_slot": "sword",
-  "weapon_type": "Sword"
+  "weapon_type": "Sword",
+  "attack_style": "MELEE"
 }

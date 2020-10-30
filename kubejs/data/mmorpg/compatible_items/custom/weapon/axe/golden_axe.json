@@ -2,10 +2,7 @@
   "item_type": "golden_axe",
   "item_id": "minecraft:golden_axe",
   "id": "minecraft:golden_axe",
-  "rarity": {
-    "min_rarity": 0,
-    "max_rarity": 2
-  },
+  "rarities": "non_aoe",
   "misc": {
     "weight": 1000,
     "can_be_salvaged": true

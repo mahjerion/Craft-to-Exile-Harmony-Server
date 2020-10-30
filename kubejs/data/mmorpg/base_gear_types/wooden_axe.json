@@ -1,6 +1,6 @@
 {
   "id": "wooden_axe",
-  "weight": 1000,
+  "weight": 0,
   "rarity": 0,
   "tier": 0,
   "registry": "gear_type",
@@ -44,5 +44,6 @@
   },
   "item_id": "minecraft:wooden_axe",
   "gear_slot": "axe",
-  "weapon_type": "Axe"
+  "weapon_type": "Axe",
+  "attack_style": "MELEE"
 }

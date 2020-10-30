@@ -2,10 +2,7 @@
   "item_type": "diamond_sword",
   "item_id": "minecraft:diamond_sword",
   "id": "minecraft:diamond_sword",
-  "rarity": {
-    "min_rarity": 0,
-    "max_rarity": 1
-  },
+  "rarities": "non_aoe",
   "misc": {
     "weight": 1000,
     "can_be_salvaged": true

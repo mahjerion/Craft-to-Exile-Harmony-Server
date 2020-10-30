@@ -6,11 +6,11 @@
   ],
   "key": {
     "L": {
-      "tag": "minecraft:logs"
+      "item": "minecraft:oak_planks"
     }
   },
   "result": {
     "item": "minecraft:air",
-    "count": 2
+    "count": 1
   }
 }

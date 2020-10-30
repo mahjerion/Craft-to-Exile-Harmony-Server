@@ -1,6 +1,6 @@
 {
   "id": "plate_golden_helmet",
-  "weight": 333,
+  "weight": 0,
   "rarity": 0,
   "tier": 0,
   "registry": "gear_type",
@@ -36,5 +36,6 @@
   },
   "item_id": "minecraft:golden_helmet",
   "gear_slot": "helmet",
-  "weapon_type": "None"
+  "weapon_type": "None",
+  "attack_style": "MELEE"
 }

@@ -2,10 +2,7 @@
   "item_type": "cloth_diamond_boots",
   "item_id": "minecraft:diamond_boots",
   "id": "minecraft:cloth_diamond_boots",
-  "rarity": {
-    "min_rarity": 0,
-    "max_rarity": 1
-  },
+  "rarities": "non_aoe",
   "misc": {
     "weight": 1000,
     "can_be_salvaged": true

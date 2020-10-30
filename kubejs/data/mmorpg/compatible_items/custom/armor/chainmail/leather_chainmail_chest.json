@@ -2,10 +2,7 @@
   "item_type": "leather_chainmail_chest",
   "item_id": "minecraft:chainmail_chestplate",
   "id": "minecraft:leather_chainmail_chest",
-  "rarity": {
-    "min_rarity": 0,
-    "max_rarity": 1
-  },
+  "rarities": "non_aoe",
   "misc": {
     "weight": 1000,
     "can_be_salvaged": true

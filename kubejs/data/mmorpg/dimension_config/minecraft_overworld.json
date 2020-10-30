@@ -1,6 +1,5 @@
 {
   "dimension_id": "minecraft:overworld",
-  "drops_unique_gear": true,
   "mob_tier": 0,
   "all_drop_multi": 1.0,
   "mob_lvl_per_distance": 50,

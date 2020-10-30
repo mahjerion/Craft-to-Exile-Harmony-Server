@@ -2,10 +2,7 @@
   "item_type": "plate_tungsten_chest",
   "item_id": "endreborn:tungsten_chestplate",
   "id": "endreborn:plate_tungsten_chest",
-  "rarity": {
-    "min_rarity": 0,
-    "max_rarity": 1
-  },
+  "rarities": "non_aoe",
   "misc": {
     "weight": 1000,
     "can_be_salvaged": true

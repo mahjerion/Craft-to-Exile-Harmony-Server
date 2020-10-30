@@ -2,10 +2,7 @@
   "item_type": "leather_netherite_boots",
   "item_id": "minecraft:netherite_boots",
   "id": "minecraft:leather_netherite_boots",
-  "rarity": {
-    "min_rarity": 0,
-    "max_rarity": 1
-  },
+  "rarities": "non_aoe",
   "misc": {
     "weight": 1000,
     "can_be_salvaged": true

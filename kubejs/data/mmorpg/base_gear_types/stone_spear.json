@@ -1,6 +1,6 @@
 {
   "id": "stone_spear",
-  "weight": 1000,
+  "weight": 0,
   "rarity": 0,
   "tier": 0,
   "registry": "gear_type",
@@ -52,5 +52,6 @@
   },
   "item_id": "campanion:stone_spear",
   "gear_slot": "spear",
-  "weapon_type": "Spear"
+  "weapon_type": "Spear",
+  "attack_style": "MELEE"
 }

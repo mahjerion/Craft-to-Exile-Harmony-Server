@@ -1,6 +1,6 @@
 {
   "id": "leather_netherite_pants",
-  "weight": 333,
+  "weight": 0,
   "rarity": 0,
   "tier": 0,
   "registry": "gear_type",
@@ -36,5 +36,6 @@
   },
   "item_id": "minecraft:netherite_leggings",
   "gear_slot": "pants",
-  "weapon_type": "None"
+  "weapon_type": "None",
+  "attack_style": "MELEE"
 }

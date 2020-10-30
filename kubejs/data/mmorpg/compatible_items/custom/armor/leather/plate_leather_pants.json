@@ -2,10 +2,7 @@
   "item_type": "plate_leather_pants",
   "item_id": "minecraft:leather_leggings",
   "id": "minecraft:plate_leather_pants",
-  "rarity": {
-    "min_rarity": 0,
-    "max_rarity": 1
-  },
+  "rarities": "non_aoe",
   "misc": {
     "weight": 1000,
     "can_be_salvaged": true
