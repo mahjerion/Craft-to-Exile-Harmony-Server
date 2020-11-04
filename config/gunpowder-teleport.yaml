@@ -1,0 +1,13 @@
+# Gunpowder Teleport Config
+
+# Max number of homes per user
+maxHomes: 3
+
+# Delay between command and teleportation in seconds
+teleportDelay: 5
+
+# Seconds until /tpa expires
+tpaTimeout: 30
+
+# Distance for /rtp
+rtpDistance: 10000
