@@ -1,0 +1,32 @@
+{
+  "type": "MAJOR",
+  "identifier": "steady_hand",
+  "spell": "",
+  "lock_under_adv": "",
+  "icon": "mmorpg:textures/gui/stat_icons/game_changers/steady_hand.png",
+  "is_entry": false,
+  "lvl_req": 1,
+  "stats": [
+    {
+      "first": -100.0,
+      "second": 0.0,
+      "stat": "critical_damage",
+      "type": "GLOBAL_INCREASE",
+      "scaleToLevel": false
+    },
+    {
+      "first": -100.0,
+      "second": 0.0,
+      "stat": "critical_hit",
+      "type": "GLOBAL_INCREASE",
+      "scaleToLevel": false
+    },
+    {
+      "first": 25.0,
+      "second": 0.0,
+      "stat": "total_damage",
+      "type": "FLAT",
+      "scaleToLevel": false
+    }
+  ]
+}
