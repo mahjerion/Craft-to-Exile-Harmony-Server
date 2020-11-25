@@ -32,7 +32,7 @@
               "entity_name": "projectile",
               "gravity": true,
               "proj_count": 1.0,
-              "life_ticks": 80.0,
+              "life_ticks": 60.0,
               "proj_en": "mmorpg:spell_projectile"
             }
           }
