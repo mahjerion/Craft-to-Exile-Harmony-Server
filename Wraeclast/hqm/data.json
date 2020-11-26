@@ -67,6 +67,30 @@
           }
         },
         {
+          "questId": "b9348176-487c-4c46-8d6b-193f331b3b34",
+          "questData": {
+            "players": 1,
+            "rewards": [
+              false
+            ],
+            "completed": false,
+            "claimed": false,
+            "available": true,
+            "time": 0,
+            "tasksSize": 1,
+            "tasks": [
+              {
+                "type": "ITEMS",
+                "completed": false,
+                "count": 1,
+                "progress": [
+                  0
+                ]
+              }
+            ]
+          }
+        },
+        {
           "questId": "ff1e4d39-ea2e-4c4f-b6d4-701a49d680d7",
           "questData": {
             "players": 1,
@@ -186,6 +210,30 @@
                 "killed": [
                   0,
                   0,
+                  0
+                ]
+              }
+            ]
+          }
+        },
+        {
+          "questId": "c9c81a94-3d09-41c0-996b-3c042bbca348",
+          "questData": {
+            "players": 1,
+            "rewards": [
+              false
+            ],
+            "completed": false,
+            "claimed": false,
+            "available": true,
+            "time": 0,
+            "tasksSize": 1,
+            "tasks": [
+              {
+                "type": "ITEMS",
+                "completed": false,
+                "count": 1,
+                "progress": [
                   0
                 ]
               }
@@ -1333,6 +1381,30 @@
                 "killed": [
                   0,
                   0,
+                  0
+                ]
+              }
+            ]
+          }
+        },
+        {
+          "questId": "36736f21-0fae-434f-beb9-364db8e1ffc5",
+          "questData": {
+            "players": 1,
+            "rewards": [
+              false
+            ],
+            "completed": false,
+            "claimed": false,
+            "available": true,
+            "time": 0,
+            "tasksSize": 1,
+            "tasks": [
+              {
+                "type": "ITEMS",
+                "completed": false,
+                "count": 1,
+                "progress": [
                   0
                 ]
               }

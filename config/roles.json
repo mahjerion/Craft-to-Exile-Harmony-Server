@@ -25,12 +25,14 @@
       "commands": {
         "help": "allow",
 		"spawn": "deny",
-		"tpa": "allow",
-		"sethome": "allow",
+		"tpa": "deny",
+		"sethome": "deny",
         "team": "allow",
         "role": "deny",
 		"rtp": "allow",
-		"home": "allow"
+		"home": "deny",
+		"back": "deny",
+        "warp": "deny"
       }
     }
   }
