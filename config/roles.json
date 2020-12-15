@@ -32,7 +32,8 @@
 		"rtp": "allow",
 		"home": "deny",
 		"back": "deny",
-        "warp": "deny"
+        "warp": "deny",
+        "tpahere": "deny"
       }
     }
   }
