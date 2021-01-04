@@ -45,8 +45,7 @@
 		},
 		// Declares whether REI is visible.
 		"overlayVisible": true,
-		"cheatingStyle": "GRAB",
-		"reducedMotion": false
+		"cheatingStyle": "GRAB"
 	},
 	"advanced": { 
 		"filtering": { 
@@ -85,6 +84,8 @@
 			"resizeDynamically": false
 		},
 		"search": { 
+			// Declares whether favorites will be searched.
+			"searchFavorites": false,
 			// Declares whether search time should be debugged.
 			"debugSearchTimeRequired": false,
 			// Declares whether REI should search async.
@@ -128,7 +129,7 @@
 	},
 	"functionality": { 
 		// Declares whether REI should remove the recipe book.
-		"disableRecipeBook": false,
+		"disableRecipeBook": true,
 		// Declares whether subsets is enabled.
 		"isSubsetsEnabled": false,
 		"allowInventoryHighlighting": true
