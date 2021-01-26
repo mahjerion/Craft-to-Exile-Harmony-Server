@@ -9,14 +9,14 @@
       "firstMin": 3.0,
       "firstMax": 5.0,
       "secondMin": 6.0,
-      "secondMax": 10.0,
+      "secondMax": 12.0,
       "stat": "physical_weapon_damage",
       "type": "flat"
     }
   ],
   "level_range": {
     "start": 0.4,
-    "end": 0.6
+    "end": 0.7
   },
   "tag_list": {
     "tags": [

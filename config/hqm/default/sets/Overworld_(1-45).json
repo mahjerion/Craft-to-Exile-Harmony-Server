@@ -5,7 +5,7 @@
       "uuid": "35178b05-9dfd-4fee-beab-0c1cf49fcf2a",
       "name": "I Summon Thee!",
       "description": "Summoners are powerful creatures that can be found randomly in the Overworld. They usually spawn where a storm is brewing...",
-      "x": 85,
+      "x": 54,
       "y": 144,
       "icon": {
         "id": "adventurez:spawn_summoner",
@@ -134,7 +134,7 @@
       "uuid": "00f8f61e-1536-4f72-93d9-b947301788a1",
       "name": "Despair",
       "description": "Age of Exile brings its own Overworld boss known as the Corrupted Golem. To learn how to craft the golem, view the Age of Exile guide.",
-      "x": 113,
+      "x": 82,
       "y": 174,
       "bigicon": true,
       "icon": {
@@ -310,8 +310,8 @@
       },
       "repeat": {
         "type": "TIME",
-        "days": 7,
-        "hours": 0
+        "days": 0,
+        "hours": 7
       },
       "tasks": [
         {
@@ -476,7 +476,7 @@
     {
       "uuid": "c4a504f1-74f5-4c6d-8386-a317ae4b7586",
       "name": "Waystones",
-      "description": "Waystones are a fantastic way to quickly get from point A to point B. They are naturally occurring in villages. They are also craftable!",
+      "description": "Waystones are a fantastic way to quickly get from point A to point B. They are naturally occurring in villages. They are also craftable! Additionally, you can craft warp scrolls and pocket wormholes to teleport you from any location to a waystone! This cannot be done interdimensionally. Scrolls are single-time use, and wormholes are multiuse with a cooldown!",
       "x": 148,
       "y": 48,
       "icon": {
@@ -493,6 +493,20 @@
                 "id": "waystones:waystone",
                 "Count": 1
               }
+            },
+            {
+              "item": {
+                "id": "waystones:empty_scroll",
+                "Count": 4
+              },
+              "required": 4,
+              "precision": "TAG_NBT_FUZZY"
+            },
+            {
+              "item": {
+                "id": "waystones:pocket_wormhole",
+                "Count": 1
+              }
             }
           ]
         }
@@ -502,10 +516,6 @@
       ],
       "optionlinks": [],
       "reward": [
-        {
-          "id": "craftable_utilities:death_teleport",
-          "Count": 8
-        },
         {
           "id": "mmorpg:loot_crate/rare",
           "Count": 1
@@ -526,8 +536,8 @@
       },
       "repeat": {
         "type": "TIME",
-        "days": 1,
-        "hours": 0
+        "days": 0,
+        "hours": 1
       },
       "tasks": [
         {
@@ -643,8 +653,8 @@
       "uuid": "21f6ea18-0d47-4b9e-9753-073fd2acec64",
       "name": "Double Double",
       "description": "Age of Exile is highly compatible with Minecraft mods! Enchantments and potions will work as intended!",
-      "x": 116,
-      "y": 112,
+      "x": 85,
+      "y": 144,
       "icon": {
         "id": "minecraft:splash_potion",
         "Count": 1,
@@ -692,7 +702,7 @@
     {
       "uuid": "fb4f32fc-36b2-479f-8411-764885b8baeb",
       "name": "Stay Away!",
-      "description": "In [Harmony], there are many ranged weapons. Even melee gets a semi-ranged weapon! The spear is a weapon added by Campanion that has been configured to be fully compatible with Age of Exile.",
+      "description": "In [Harmony], there are many ranged weapons. Even melee gets a semi-ranged weapon! The spear is a weapon added by Campanion that has been configured to be fully compatible with Age of Exile. Additionally, hammers from Better End have been added and are slower, but more powerful weapons!",
       "x": 85,
       "y": 48,
       "icon": {
@@ -716,6 +726,15 @@
                 }
               },
               "precision": "TAG_NBT_FUZZY"
+            },
+            {
+              "item": {
+                "id": "betterend:iron_hammer",
+                "Count": 1,
+                "tag": {
+                  "Damage": 0
+                }
+              }
             }
           ]
         }
@@ -828,8 +847,8 @@
       },
       "repeat": {
         "type": "TIME",
-        "days": 1,
-        "hours": 0
+        "days": 0,
+        "hours": 1
       },
       "tasks": [
         {
@@ -898,8 +917,8 @@
       },
       "repeat": {
         "type": "TIME",
-        "days": 1,
-        "hours": 0
+        "days": 0,
+        "hours": 1
       },
       "tasks": [
         {
@@ -1169,14 +1188,6 @@
       "optionlinks": [],
       "reward": [
         {
-          "id": "craftable_utilities:spawn_teleport",
-          "Count": 2
-        },
-        {
-          "id": "craftable_utilities:death_teleport",
-          "Count": 2
-        },
-        {
           "id": "mmorpg:mat/salvage/salvage0",
           "Count": 16
         },
@@ -1200,8 +1211,8 @@
       },
       "repeat": {
         "type": "TIME",
-        "days": 1,
-        "hours": 0
+        "days": 0,
+        "hours": 1
       },
       "tasks": [
         {
@@ -1253,8 +1264,8 @@
       "uuid": "36736f21-0fae-434f-beb9-364db8e1ffc5",
       "name": "XP Storage",
       "description": "XP books are a cheap and efficient method for storing vanilla XP. You can even upgrade them to store more!",
-      "x": 148,
-      "y": 80,
+      "x": 116,
+      "y": 112,
       "icon": {
         "id": "xp_storage:xp_book",
         "Count": 1,
@@ -1280,8 +1291,7 @@
         }
       ],
       "prerequisites": [
-        "931874d5-15be-4aa4-9289-1472d8ad7c59",
-        "c4a504f1-74f5-4c6d-8386-a317ae4b7586"
+        "931874d5-15be-4aa4-9289-1472d8ad7c59"
       ],
       "optionlinks": [],
       "reward": [
@@ -1300,8 +1310,8 @@
       "uuid": "316a6b1a-5bcd-4a05-b4b7-379b44311286",
       "name": "The Phantom Menace",
       "description": "Don\u0027t sleep for 3 in-game days, and phantoms will spawn! These undead manta rays will hunt you down at night!",
-      "x": 148,
-      "y": 112,
+      "x": 116,
+      "y": 144,
       "icon": {
         "id": "minecraft:phantom_membrane",
         "Count": 1
@@ -1398,8 +1408,8 @@
       },
       "repeat": {
         "type": "TIME",
-        "days": 1,
-        "hours": 0
+        "days": 0,
+        "hours": 1
       },
       "tasks": [
         {
@@ -1553,8 +1563,8 @@
       },
       "repeat": {
         "type": "TIME",
-        "days": 1,
-        "hours": 0
+        "days": 0,
+        "hours": 1
       },
       "tasks": [
         {
@@ -1608,6 +1618,53 @@
         {
           "id": "mmorpg:gear_mat/essences/elemental",
           "Count": 3
+        }
+      ],
+      "rewardchoice": [],
+      "commandrewards": []
+    },
+    {
+      "uuid": "abd23147-72bf-4d87-9c79-ac87a18c7c2c",
+      "name": "Monster From The Depths",
+      "description": "Find a new type of mob deep in the ocean... To some, it may seem familiar. Once proposed as a plausible Minecraft mob and rejected due to a popularity vote, the lurker has come to seek revenge in Craft to Exile [Harmony]!",
+      "x": 148,
+      "y": 144,
+      "icon": {
+        "id": "zoob:abyssal_membrane",
+        "Count": 1
+      },
+      "tasks": [
+        {
+          "type": "KILL",
+          "description": "Killing Task",
+          "mobs": [
+            {
+              "name": "Lurker",
+              "icon": {
+                "id": "zoob:abyssal_membrane",
+                "Count": 1
+              },
+              "mob": "zoob:monster_of_the_ocean_depths",
+              "kills": 1
+            }
+          ]
+        }
+      ],
+      "prerequisites": [
+        "316a6b1a-5bcd-4a05-b4b7-379b44311286"
+      ],
+      "optionlinks": [],
+      "reward": [
+        {
+          "id": "mmorpg:loot_crate/ench_exp_bag",
+          "Count": 1,
+          "tag": {
+            "exp": 250
+          }
+        },
+        {
+          "id": "mmorpg:loot_crate/rune",
+          "Count": 1
         }
       ],
       "rewardchoice": [],
