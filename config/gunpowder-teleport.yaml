@@ -10,4 +10,4 @@ teleportDelay: 5
 tpaTimeout: 30
 
 # Distance for /rtp
-rtpDistance: 10000
+rtpDistance: 2500

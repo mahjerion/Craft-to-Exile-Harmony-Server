@@ -33,7 +33,10 @@
 		"home": "deny",
 		"back": "deny",
         "warp": "deny",
-        "tpahere": "deny"
+        "tpahere": "deny",
+		"delhome": "deny",
+		"tpaccept": "deny",
+		"tpdeny": "deny"
       }
     }
   }
