@@ -8,7 +8,7 @@ At its core, Craft to Exile turns Minecraft into an action RPG which focuses on 
 
 Featuring:
 - Invasions from the mod: Crimson Moon! Survive and protect your base!
-- Over 50 quests and 50 custom items (uniques, runewords), with more to come!
+- Over 100 quests and 50 custom items (uniques, runewords), with more to come!
 - Extensive configuration via datapacks.
 - Custom spells and skill trees.
 - An official server provided by Akliz!
@@ -16,9 +16,10 @@ Featuring:
 Mods:
 - Age of Exile - turns Minecraft into an ARPG!
 - Origins - introducing "Ascendancies"!
+- Art of Alchemy - an alchemy-themed tech mod!
 - The Bumblezone, End: Rebellion, Adventurez - adds more content!
 - Hardcore Questing Mode - with customized quest log.
-- Oh The Biomes You'll Go, Mo' Structures, Repurposed Structures, Dungeons of Exile - for enhanced world gen!
+- Oh The Biomes You'll Go, Terrestria, Traverse, Cinderscapes, Better Nether/End, Mo' Structures, Repurposed Structures, Dungeons of Exile - for enhanced world gen!
 - Tons of QOL mods!
 
 Curse Page: https://www.curseforge.com/minecraft/modpacks/crafttoexileharmony
