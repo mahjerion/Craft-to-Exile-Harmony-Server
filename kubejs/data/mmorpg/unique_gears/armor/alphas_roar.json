@@ -1,53 +1,50 @@
 {
-  "id": "alphas_howl",
+  "id": "alphas_roar",
   "weight": 1000,
   "rarity": 1,
   "tier": 0,
-  "registry": "unique_gear",
-  "lang_file_string": "item.mmorpg.uniques.armor.alphas_howl",
-  "lang_file_desc_string": "item.mmorpg.uniques.armor.alphas_howl.desc",
   "unique_stats": [
     {
-      "firstMin": 80.0,
-      "firstMax": 90.0,
+      "firstMin": 110.0,
+      "firstMax": 130.0,
       "secondMin": 0.0,
       "secondMax": 0.0,
       "stat": "dodge",
       "type": "local_increase"
     },
     {
-      "firstMin": 10.0,
-      "firstMax": 15.0,
+      "firstMin": 15.0,
+      "firstMax": 25.0,
       "secondMin": 0.0,
       "secondMax": 0.0,
       "stat": "water_resist",
       "type": "flat"
     },
     {
-      "firstMin": 5.0,
-      "firstMax": 10.0,
+      "firstMin": 15.0,
+      "firstMax": 25.0,
       "secondMin": 0.0,
       "secondMax": 0.0,
       "stat": "cdr",
       "type": "flat"
     },
     {
-      "firstMin": 10.0,
-      "firstMax": 15.0,
+      "firstMin": 15.0,
+      "firstMax": 20.0,
       "secondMin": 0.0,
       "secondMax": 0.0,
       "stat": "faster_cast_rate",
       "type": "flat"
     },
     {
-      "firstMin": 25.0,
-      "firstMax": 25.0,
+      "firstMin": 35.0,
+      "firstMax": 50.0,
       "secondMin": 0.0,
       "secondMax": 0.0,
       "stat": "increase_healing",
       "type": "flat"
     }
   ],
-  "gear_type": "leather_helmet1",
-  "item_id": "mmorpg:armor/leather/helmet/leather_helmet1"
+  "gear_type": "leather_helmet4",
+  "item_id": "mmorpg:armor/leather/helmet/leather_helmet4"
 }

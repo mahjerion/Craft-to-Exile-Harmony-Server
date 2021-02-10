@@ -1,0 +1,24 @@
+{
+  "death": {
+    "actions": [],
+    "broadcast_to_everyone": true
+  },
+  "join": {
+    "actions": [
+	  "/say Welcome ${player} to the server!"
+	],
+    "broadcast_to_everyone": false
+  },
+  "kill_entity": {
+    "actions": [],
+    "broadcast_to_everyone": true
+  },
+  "kill_player": {
+    "actions": [],
+    "broadcast_to_everyone": true
+  },
+  "leave": {
+    "actions": [],
+    "broadcast_to_everyone": true
+  }
+}
