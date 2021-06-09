@@ -6,7 +6,7 @@
   "minClaimsize": 100,
   "defaultClaimDepth": 10,
   "ignoredBlocks": [
-	"minecraft:white_shulker_box"
+    "minecraft:white_shulker_box"
   ],
   "lenientBlockEntityCheck": false,
   "blacklistedWorlds": [],
@@ -22,5 +22,7 @@
       "ANIMALINTERACT": true
     }
   },
-  "enableLogs": false
+  "enableLogs": false,
+  "sellPrice": -1,
+  "buyPrice": -1
 }

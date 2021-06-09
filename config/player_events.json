@@ -1,0 +1,26 @@
+{
+  "death": {
+    "actions": [],
+    "broadcast_to_everyone": true
+  },
+  "first_join": {
+    "actions": [],
+    "broadcast_to_everyone": true
+  },
+  "join": {
+    "actions": [],
+    "broadcast_to_everyone": true
+  },
+  "kill_entity": {
+    "actions": [],
+    "broadcast_to_everyone": true
+  },
+  "kill_player": {
+    "actions": [],
+    "broadcast_to_everyone": true
+  },
+  "leave": {
+    "actions": [],
+    "broadcast_to_everyone": true
+  }
+}
