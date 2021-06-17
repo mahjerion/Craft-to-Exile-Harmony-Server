@@ -26,6 +26,7 @@
       "BED": true,
       "ENCHANTMENT": true,
       "FENCEGATE": true,
+      "ANIMALINTERACT": true,
       "PRESSUREPLATE": true,
       "ITEMFRAMEROTATE": true,
       "ENDERCHEST": true,
@@ -33,8 +34,7 @@
       "TRADING": true,
       "DOOR": true,
       "TRAPDOOR": true,
-      "PORTAL": true,
-      "ANIMALINTERACT": true
+      "PORTAL": true
     },
     "Co-Owner": {
       "WATERBORDER": true,
