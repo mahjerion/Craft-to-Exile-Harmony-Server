@@ -1,6 +1,6 @@
 { 
 	"TEMP_SPAWNERS": { 
-		"ENABLE": true,
+		"ENABLE": false,
 		"NEGATIVE_EFFECTS_AT_EXPIRATION": true,
 		"ENABLE_SPAWNER_DESTRUCTION": false,
 		"SPAWNER_LIFETIME_MINUTES": 5,
@@ -42,8 +42,6 @@
 	"AFFECT_PEACEFUL_ANIMALS": false,
 	// Every feature is disabled in these dimensions
 	"DIMENSIONS_EXCLUDED": [ 
-		"mmorpg:dungeon",
-		"mmorpg:dungeon",
 		"mmorpg:dungeon",
 		"mmorpg:dungeon",
 		"mmorpg:dungeon",
