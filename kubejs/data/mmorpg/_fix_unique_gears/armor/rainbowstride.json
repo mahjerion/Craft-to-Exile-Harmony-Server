@@ -1,0 +1,37 @@
+{
+  "id": "rainbowstride",
+  "weight": 1000,
+  "rarity": 1,
+  "tier": 0,
+  "registry": "unique_gear",
+  "lang_file_string": "item.mmorpg.uniques.armor.rainbowstride",
+  "lang_file_desc_string": "item.mmorpg.uniques.armor.rainbowstride.desc",
+  "unique_stats": [
+    {
+      "firstMin": 50.0,
+      "firstMax": 80.0,
+      "secondMin": 0.0,
+      "secondMax": 0.0,
+      "stat": "magic_shield",
+      "type": "local_increase"
+    },
+    {
+      "firstMin": 70.0,
+      "firstMax": 90.0,
+      "secondMin": 0.0,
+      "secondMax": 0.0,
+      "stat": "mana",
+      "type": "flat"
+    },
+    {
+      "firstMin": 15.0,
+      "firstMax": 25.0,
+      "secondMin": 0.0,
+      "secondMax": 0.0,
+      "stat": "elemental_resist",
+      "type": "flat"
+    }
+  ],
+  "gear_type": "cloth_boots1",
+  "item_id": "mmorpg:armor/cloth/boots/cloth_boots1"
+}
